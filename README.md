@@ -10,8 +10,8 @@ An AI-powered journaling and mood-tracking application. This project uses Natura
 
 ## 🚀 Features
 
-* **Secure User Authentication:** Unique user registration and login using JWT tokens.
-* **Create Entries:** A rich text form to write and save new journal entries.
+* **Secure User Authentication:** User registration and login using token-based authentication.
+* **Create Entries:** A simple form to write and save new journal entries.
 * **Instant Sentiment Analysis:** Every entry is instantly analyzed upon submission for its sentiment (Positive, Negative, Neutral) and polarity score.
 * **Data Dashboard:** An interactive dashboard for each user, displaying:
     * Total entry count.
