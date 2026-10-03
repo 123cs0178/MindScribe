@@ -4,7 +4,7 @@ An AI-powered journaling and mood-tracking application. This project uses Natura
 
 ## ✨ Live Demo
 
-**You can use the live application here: [https://mindscribe-5nsp.onrender.com](https://mindscribe-5nsp.onrender.com)**
+**You can use the live application here: [https://mindscribe-frontend-gtnd.onrender.com](https://mindscribe-frontend-gtnd.onrender.com)**
 
 ---
 
@@ -43,4 +43,4 @@ This is a full-stack project built with a monorepo structure.
 * **Services:**
     * **Backend:** Render Web Service (Python/Gunicorn)
     * **Frontend:** Render Static Site (React/Vite)
-    * **Database:** Render PostgreSQL
+    * **Database:** Neon PostgreSQL
